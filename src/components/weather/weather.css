@@ -1,0 +1,54 @@
+
+.ct-custom {
+    margin-top: 200px;
+}
+
+.ct-custom i {
+    font-size: 20px;
+    margin-right: 10px
+}
+
+.contain {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.contain h3 {
+    margin: 14px 0;
+}
+
+.contain h1 {
+    text-align: center;
+}
+
+.ipCustom {}
+
+.ct-custom .description {
+    display: flex;
+    height: 150px;
+}
+
+.ct-custom .description div {
+    width: 50%;
+}
+
+.ct-custom .description div img {
+    width: 100%;
+    height: 100%;
+}
+
+.data-contain {
+    border-radius: 10px;
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    color: #fff;
+    padding: 20px;
+}
+
+.ip-contain {
+    padding: 20px;
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
